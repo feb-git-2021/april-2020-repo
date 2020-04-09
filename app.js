@@ -1,6 +1,6 @@
 const calculator={
-    add:(a,b)=>{
-        return a +b
+    add:(a,b,c)=>{
+        return a + b + c
     },
     sub:(a,b)=>{
         return a - b
